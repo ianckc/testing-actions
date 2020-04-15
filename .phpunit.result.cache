@@ -1,1 +1,0 @@
-C:37:"PHPUnit\Runner\DefaultTestResultCache":252:{a:2:{s:7:"defects";a:2:{s:39:"Tests\Unit\CalculatorTest::testAddition";i:4;s:37:"Tests\Unit\AdditionTest::testAddition";i:4;}s:5:"times";a:2:{s:39:"Tests\Unit\CalculatorTest::testAddition";d:0.003;s:37:"Tests\Unit\AdditionTest::testAddition";d:0.003;}}}
