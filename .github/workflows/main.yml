@@ -35,3 +35,7 @@ jobs:
     # Runs Composer install to install dependencies
     - name: Composer install
       run: composer install -q --no-ansi --no-interaction --no-scripts --no-suggest --no-progress --prefer-dist
+
+    # Run PHPUnit tests
+    - name: PHPUnit tests
+      run: vendor/bin/phpunit
